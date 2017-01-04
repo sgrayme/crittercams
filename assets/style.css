@@ -1,0 +1,7 @@
+.title.brief {
+    width: 97%;
+    line-height: 1.4em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
